@@ -1,0 +1,8 @@
+com\joan\adapter\web\dto\PriceResponse.class
+com\joan\infrastructure\persistence\PriceRepository.class
+com\joan\adapter\web\dto\PriceRequest.class
+com\joan\application\service\PriceService.class
+com\joan\adapter\web\controller\PriceController.class
+com\joan\domain\model\Brand.class
+com\joan\domain\model\Price.class
+com\joan\MainApplication.class

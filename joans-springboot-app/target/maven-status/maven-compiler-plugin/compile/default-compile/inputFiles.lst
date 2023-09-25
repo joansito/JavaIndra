@@ -1,0 +1,8 @@
+C:\Users\joanm\eclipse-workspace\joans-spring-boot-app\src\main\java\com\joan\domain\model\Price.java
+C:\Users\joanm\eclipse-workspace\joans-spring-boot-app\src\main\java\com\joan\infrastructure\persistence\PriceRepository.java
+C:\Users\joanm\eclipse-workspace\joans-spring-boot-app\src\main\java\com\joan\application\service\PriceService.java
+C:\Users\joanm\eclipse-workspace\joans-spring-boot-app\src\main\java\com\joan\domain\model\Brand.java
+C:\Users\joanm\eclipse-workspace\joans-spring-boot-app\src\main\java\com\joan\MainApplication.java
+C:\Users\joanm\eclipse-workspace\joans-spring-boot-app\src\main\java\com\joan\adapter\web\dto\PriceRequest.java
+C:\Users\joanm\eclipse-workspace\joans-spring-boot-app\src\main\java\com\joan\adapter\web\controller\PriceController.java
+C:\Users\joanm\eclipse-workspace\joans-spring-boot-app\src\main\java\com\joan\adapter\web\dto\PriceResponse.java
